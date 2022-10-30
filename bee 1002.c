@@ -1,5 +1,5 @@
 # Beecrowed-problem-solving
-bee 1002.c
+bee1002
 
 #include<stdio.h>
 int main(){
